@@ -12,7 +12,6 @@
 - 🎓 B.Tech in Information Technology  
 - 💻 Full-stack developer exploring **React, Next.js, Tailwind, AWS, GSAP, Three.js**  
 - 🎨 I enjoy blending tech + design to build immersive digital experiences  
-- 📈 Currently working on: *Brainwave, CloudScribe, and an iPhone 15 Pro clone website*  
 - 🚀 Always curious, always building  
 
 ---
