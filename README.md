@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 - 🎓 B.Tech in Information Technology  
-- 💻 Full-stack developer exploring **React, Next.js, Tailwind, AWS, GSAP, Three.js**  
+- 💻 Full-stack developer exploring **React, Next.js, Tailwind, AWS, GSAP**  
 - 🎨 I enjoy blending tech + design to build immersive digital experiences  
 - 🚀 Always curious, always building  
 
